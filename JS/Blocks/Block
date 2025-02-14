@@ -1,0 +1,8 @@
+var Block_blk=Block(0,false);
+Block_blk.type="blk";
+function blkDraw(arg){
+	
+}
+function blkDrawOver(arg){
+	
+}
